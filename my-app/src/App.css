@@ -1,0 +1,31 @@
+@font-face{
+	font-family: BebasNeue-Regular;
+	src: url(./Fonts/BebasNeue-Regular.ttf);
+	font-weight: bold;
+}
+@font-face{
+	font-family: Montserrat-Light;
+	src: url(./Fonts/Montserrat-Light.ttf);
+	font-weight: bold;
+}
+@font-face{
+	font-family: Montserrat-Regular;
+	src: url(./Fonts/Montserrat-Regular.ttf);
+	font-weight: bold;
+}
+@font-face{
+	font-family: Montserrat-Bold;
+	src: url(./Fonts/Montserrat-Bold.ttf);
+	font-weight: bold;
+}
+@font-face{
+	font-family: TrendSansOne;
+	src: url(./Fonts/TrendSansOne.ttf);
+	font-weight: bold;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: TrendSansOne;
+}

@@ -1,0 +1,30 @@
+.Header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    column-gap: 15px;
+}
+.Header {
+    background-color: #f0ebe7;
+}
+.Header a {
+    font-size: 15px;
+    color: #4c4557;
+    text-decoration: none;
+}
+.Header a:hover{
+    color: #000;
+}
+.Header a li{
+    list-style: none;
+}
+.Header .ni{
+    border-radius: 20px;
+    padding: 10px;
+    transition-duration: 0.2s;
+}
+.Header .ni:hover{
+    background-color: #0000001c;
+    transition-duration: 0.2s;
+}
