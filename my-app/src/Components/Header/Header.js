@@ -6,11 +6,11 @@ const Header = () => {
   return (
     <div className='Header'>
         <ul>
-            <a href="#" className='ni'><li>Home</li></a>
-            <a href="#" className='ni'><li>Cakes</li></a>
-            <a href="#" className='logo'><li><img src={Logo} alt="logo" /></li></a>
-            <a href="#" className='ni'><li>Cupcakes</li></a>
-            <a href="#" className='ni'><li>Contact</li></a>
+            <a href="https://github.com/ionic-team/stencil/issues/1374" className='ni'><li>Home</li></a>
+            <a href="https://github.com/ionic-team/stencil/issues/1374" className='ni'><li>Cakes</li></a>
+            <a href="https://github.com/ionic-team/stencil/issues/1374" className='logo'><li><img src={Logo} alt="logo" /></li></a>
+            <a href="https://github.com/ionic-team/stencil/issues/1374" className='ni'><li>Cupcakes</li></a>
+            <a href="https://github.com/ionic-team/stencil/issues/1374" className='ni'><li>Contact</li></a>
         </ul>
     </div>
   )
