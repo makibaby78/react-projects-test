@@ -1,7 +1,7 @@
 {
-  "main.css": "/react-projects-test/static/css/main.ac78fe77.chunk.css",
-  "main.js": "/react-projects-test/static/js/main.7a29ad9b.chunk.js",
-  "main.js.map": "/react-projects-test/static/js/main.7a29ad9b.chunk.js.map",
+  "main.css": "/react-projects-test/static/css/main.e49508b5.chunk.css",
+  "main.js": "/react-projects-test/static/js/main.a33164fe.chunk.js",
+  "main.js.map": "/react-projects-test/static/js/main.a33164fe.chunk.js.map",
   "static/js/1.206e060b.chunk.js": "/react-projects-test/static/js/1.206e060b.chunk.js",
   "static/js/1.206e060b.chunk.js.map": "/react-projects-test/static/js/1.206e060b.chunk.js.map",
   "static/js/2.5606a650.chunk.js": "/react-projects-test/static/js/2.5606a650.chunk.js",
@@ -9,9 +9,9 @@
   "runtime~main.js": "/react-projects-test/static/js/runtime~main.b3a6dad2.js",
   "runtime~main.js.map": "/react-projects-test/static/js/runtime~main.b3a6dad2.js.map",
   "static/media/Sample Logo 1.png": "/react-projects-test/static/media/Sample Logo 1.a9daebab.png",
-  "static/media/App.css": "/react-projects-test/static/media/Montserrat-Bold.0c12ee2f.ttf",
-  "static/css/main.ac78fe77.chunk.css.map": "/react-projects-test/static/css/main.ac78fe77.chunk.css.map",
+  "static/media/App.css": "/react-projects-test/static/media/BebasNeue-Regular.47f711bd.ttf",
+  "static/css/main.e49508b5.chunk.css.map": "/react-projects-test/static/css/main.e49508b5.chunk.css.map",
   "index.html": "/react-projects-test/index.html",
-  "precache-manifest.ab698fa0e4d7ba7a97dc46916574c167.js": "/react-projects-test/precache-manifest.ab698fa0e4d7ba7a97dc46916574c167.js",
+  "precache-manifest.bd9c394242ff039152c2761083675ffa.js": "/react-projects-test/precache-manifest.bd9c394242ff039152c2761083675ffa.js",
   "service-worker.js": "/react-projects-test/service-worker.js"
 }
