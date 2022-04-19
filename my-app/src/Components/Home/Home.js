@@ -1,10 +1,13 @@
 import React from 'react'
+import Card from './Card/Card'
 import Carousel from './Carousel/Carousel'
+import './Home.css'
 
 const Home = () => {
   return (
-    <div>
+    <div className='Home'>
         <Carousel />
+        <Card />
     </div>
   )
 }

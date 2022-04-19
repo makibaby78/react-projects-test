@@ -1,5 +1,3 @@
-
-
 export const CarouselData = [
     {
         image:"images/Generic Muffins.jpg",

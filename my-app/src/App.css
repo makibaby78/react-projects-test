@@ -23,6 +23,9 @@
 	src: url(./Fonts/TrendSansOne.ttf);
 	font-weight: bold;
 }
+.App{
+    overflow: hidden;
+}
 *{
   padding: 0;
   margin: 0;
@@ -33,6 +36,11 @@ h1{
     font-size: 50px;
 }
 /*Helpers*/
+.sw{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+}
 button {
 	cursor: pointer;
     padding: 13px 20px;
@@ -41,6 +49,9 @@ button {
     border-radius: 18px;
 }
 @media screen and (max-width: 992px) {
+    .btn-hc{
+        display: unset;
+    }
     p, span, td{
         font-size: 14px;
     }
@@ -71,5 +82,8 @@ button {
     }
     h4{
         font-size: 13px;
+    }
+    button {
+        padding: 10px 15px
     }
   }

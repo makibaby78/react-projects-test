@@ -6,6 +6,7 @@
     column-gap: 15px;
 }
 .Header {
+    position: relative;
     background-color: #f0ebe7;
 }
 .Header a {
@@ -28,3 +29,83 @@
     background-color: #0000001c;
     transition-duration: 0.2s;
 }
+/*Responsive Header*/
+.header-res {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #dbc0ab;
+    height: 100vh;
+    z-index: 2;
+    margin-right: -211px;
+    transition-duration: 0.5s;
+}
+.btn-hc, .btn-ho {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+}
+.btn-hc{
+    position: absolute;
+    z-index: 3;
+    margin-left: -50px;
+    margin-top: 32px;
+}
+.header-res-stat {
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+}
+.hide{
+    display: none !important;
+}
+.header-res ul{
+    display: block;
+    padding-top: 40px;
+}
+.header-res ul li{
+    padding: 20px 70px 20px 30px;
+}
+.header-res ul li:hover{
+    background-color: #fff;
+    color: #000;
+}
+.header-res-active{
+    margin-right: 0;
+    transition-duration: 0.5s;  
+}
+@media screen and (max-width: 992px) {
+    .header-res-stat{
+        display: flex;
+    }
+    .header-def{
+        display: none !important;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .h-logo-wrapper {
+        max-width: 220px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .h-logo-wrapper {
+        max-width: 150px;
+    }
+    .header-res ul li{
+        padding: 14px 50px 14px 23px;
+        font-size: 13px;
+    }
+    .header-res ul {
+        padding-top: 20px;
+    }
+    .btn-hc, .btn-ho {
+        width: 20px;
+        height: 20px;
+    }
+    .btn-hc {
+        margin-left: -40px;
+        margin-top: 15px;
+    }
+  }

@@ -23,9 +23,9 @@
 }
 .c-title {
     position: absolute;
-    top: 200px;
-    transform: translateX(-50%);
+    top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
     text-align: center;
 }
 .c-title button {
@@ -70,3 +70,11 @@
     max-width: 50px;
     margin: auto;
 }
+@media screen and (max-width: 600px) {
+    .cs-item {
+        min-height: 300px;
+    }
+    .c-title button {
+        font-size: 12px;
+    }
+  }

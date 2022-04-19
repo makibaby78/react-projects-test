@@ -33,7 +33,6 @@ const Carousel = () => {
                                 <div key={index} style={{ backgroundImage: `url('${objectImage.image}')` }} className="cs-item">
                           
                                 </div>
-                           
                         )
                     })}
         </div>
