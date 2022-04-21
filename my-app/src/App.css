@@ -23,6 +23,10 @@
 	src: url(./Fonts/TrendSansOne.ttf);
 	font-weight: bold;
 }
+@font-face {
+    font-family: ThirstyScript-ExtraBold;
+    src: url(./Fonts/ThirstyScriptExtraBoldDemo.otf);
+  }
 .App{
     overflow: hidden;
 }
@@ -40,6 +44,9 @@ h1{
     width: 80%;
     max-width: 1200px;
     margin: auto;
+}
+.ssw{
+    max-width: 1600px;
 }
 button {
 	cursor: pointer;

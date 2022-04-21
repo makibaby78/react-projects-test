@@ -38,7 +38,7 @@
     background-color: #dbc0ab;
     height: 100vh;
     z-index: 2;
-    margin-right: -211px;
+    margin-right: -300px;
     transition-duration: 0.5s;
 }
 .btn-hc, .btn-ho {
@@ -63,7 +63,6 @@
 }
 .header-res ul{
     display: block;
-    padding-top: 40px;
 }
 .header-res ul li{
     padding: 20px 70px 20px 30px;
@@ -76,6 +75,9 @@
     margin-right: 0;
     transition-duration: 0.5s;  
 }
+.header-res .header-res-logo li:nth-child(1) {
+    padding: 0;
+}
 @media screen and (max-width: 992px) {
     .header-res-stat{
         display: flex;
@@ -86,6 +88,9 @@
   }
   @media screen and (max-width: 768px) {
     .h-logo-wrapper {
+        max-width: 220px;
+    }
+    .header-res-logo li:nth-child(1) img{
         max-width: 220px;
     }
 }

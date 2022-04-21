@@ -20,6 +20,7 @@
     display: flex;
     transition-duration: 0.5s;
     position: relative;
+
 }
 .c-title {
     position: absolute;
@@ -49,6 +50,7 @@
     margin: auto;
     overflow: hidden;
     max-width: 1600px;
+    border-top: 5px solid #4a4861;
 }
 .cb-item {
     cursor: pointer;
@@ -61,14 +63,19 @@
 }
 .cb-item-active{
     transition-duration: 0.5s;
-    background-color: #4a4861;
+    background-color: #f0ebe7;
 }
 .c-btn-wrapper {
     padding: 10px 0;
     display: flex;
+    grid-column-gap: 10px;
     column-gap: 10px;
     max-width: 50px;
     margin: auto;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 @media screen and (max-width: 600px) {
     .cs-item {

@@ -1,6 +1,6 @@
 import React from 'react'
-import Card from './Card/Card'
-import Carousel from './Carousel/Carousel'
+import Card from './Components/Card/Card'
+import Carousel from './Components/Carousel/Carousel'
 import './Home.css'
 
 const Home = () => {
