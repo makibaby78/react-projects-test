@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/react-projects-test/static/css/main.63eb1458.css",
-    "main.js": "/react-projects-test/static/js/main.541c18c2.js",
+    "main.css": "/react-projects-test/static/css/main.6bc0778d.css",
+    "main.js": "/react-projects-test/static/js/main.907ce3b8.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-projects-test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Dark Muffins.jpg": "/react-projects-test/static/media/Dark Muffins.76b2799c0ff768a5e0ac.jpg",
+    "static/media/Brown Cake.jpg": "/react-projects-test/static/media/Brown Cake.fca0f8a7df6c60ade997.jpg",
+    "static/media/Cookies.jpg": "/react-projects-test/static/media/Cookies.5dbe9a7232307e9ad224.jpg",
     "static/media/Montserrat-Light.ttf": "/react-projects-test/static/media/Montserrat-Light.3960f7cc0c46fd5d742e.ttf",
     "static/media/Montserrat-Regular.ttf": "/react-projects-test/static/media/Montserrat-Regular.51f8426b4f4d7778a21d.ttf",
     "static/media/Montserrat-Bold.ttf": "/react-projects-test/static/media/Montserrat-Bold.b1483171b6765da5b1c1.ttf",
@@ -11,12 +14,12 @@
     "static/media/Sample Logo 1.png": "/react-projects-test/static/media/Sample Logo 1.f582c925c076dd86be08.png",
     "static/media/TrendSansOne.ttf": "/react-projects-test/static/media/TrendSansOne.9bcb6bb0127099cace55.ttf",
     "index.html": "/react-projects-test/index.html",
-    "main.63eb1458.css.map": "/react-projects-test/static/css/main.63eb1458.css.map",
-    "main.541c18c2.js.map": "/react-projects-test/static/js/main.541c18c2.js.map",
+    "main.6bc0778d.css.map": "/react-projects-test/static/css/main.6bc0778d.css.map",
+    "main.907ce3b8.js.map": "/react-projects-test/static/js/main.907ce3b8.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-projects-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63eb1458.css",
-    "static/js/main.541c18c2.js"
+    "static/css/main.6bc0778d.css",
+    "static/js/main.907ce3b8.js"
   ]
 }
