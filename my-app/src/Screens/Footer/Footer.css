@@ -1,0 +1,16 @@
+.footer-wrapper{
+    border-top: 5px solid #4a4861;
+    margin: auto;
+    overflow: hidden;
+    background-color: #f0ebe7;
+}
+.footer-content-wrapper{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 15px;
+    color: #4a4861;
+}
+.footer-text{
+    text-align: center;
+    font-family: ThirstyScript-ExtraBold;
+}

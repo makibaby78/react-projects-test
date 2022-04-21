@@ -29,6 +29,9 @@
     background-color: #0000001c;
     transition-duration: 0.2s;
 }
+.Header .ni:nth-child(3):hover{
+    background-color: unset;
+}
 /*Responsive Header*/
 .header-res {
     position: absolute;
@@ -40,6 +43,7 @@
     z-index: 2;
     margin-right: -300px;
     transition-duration: 0.5s;
+    box-shadow: 0px 2px 15px -1px rgb(0 0 0 / 57%);
 }
 .btn-hc, .btn-ho {
     cursor: pointer;
@@ -85,17 +89,14 @@
     .header-def{
         display: none !important;
     }
-  }
-  @media screen and (max-width: 768px) {
-    .h-logo-wrapper {
-        max-width: 220px;
-    }
-    .header-res-logo li:nth-child(1) img{
+}
+@media screen and (max-width: 768px) {
+    .h-logo-wrapper, .header-res-logo li:nth-child(1) img {
         max-width: 220px;
     }
 }
 @media screen and (max-width: 600px) {
-    .h-logo-wrapper {
+    .h-logo-wrapper, .header-res-logo li:nth-child(1) img {
         max-width: 150px;
     }
     .header-res ul li{

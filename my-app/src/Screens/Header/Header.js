@@ -30,25 +30,25 @@ const Header = () => {
       <div className='sw'>
         <div className='header-res-stat'>
           <div className='h-logo-wrapper'>
-            <img width='100%' src={Logo} alt="logo" />
+            <Link to='/react-projects-test'><img width='100%' src={Logo} alt="logo" /></Link>
           </div>
           <div onClick={activeHeader} style={{ backgroundImage: "url('images/open white.png')" }} className='btn-ho'></div>
         </div>
         <ul className='header-def'>
-            <Link to="/" className='ni'><li>Home</li></Link>
+            <Link to="/react-projects-test" className='ni'><li>Home</li></Link>
             <Link to="/cakes" className='ni'><li>Cakes</li></Link>
-            <Link to="/" className='ni'><li><img src={Logo} alt="logo" /></li></Link>
+            <Link to="/react-projects-test" className='ni'><li><img src={Logo} alt="logo" /></li></Link>
             <Link to="/cakes" className='ni'><li>Cupcakes</li></Link>
             <Link to="/cakes" className='ni'><li>Contact</li></Link>
         </ul>
         <div className={`header-res ${headerVal}`}>
           <div onClick={showHeader} style={{ backgroundImage: "url('images/close white.png')" }} className={`btn-hc ${headerStat}`}></div>
             <ul>
-                <Link to="/" class="header-res-logo"><li><img src={Logo} alt="logo" /></li></Link>
-                <Link to="/"><li>Home</li></Link>
+                <Link to="/react-projects-test" className="header-res-logo"><li><img src={Logo} alt="logo" /></li></Link>
+                <Link to="/react-projects-test"><li>Home</li></Link>
                 <Link to="/cakes"><li>Cakes</li></Link>
                 <Link to="/cupcakes"><li>Cupcakes</li></Link>
-                <Link to="/contacts"><li>Contact</li></Link>
+                <Link to="/contact"><li>Contact</li></Link>
             </ul>
         </div>
       </div>

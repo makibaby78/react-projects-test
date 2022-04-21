@@ -17,7 +17,7 @@ function App() {
         <Router>
           <Header />
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/react-projects-test" element={<Home />} />
             <Route path="/*" element={<ErrorPage />} />
             <Route path="/catering" element={<Catering />} />
             <Route path="/menu" element={<Menu />} />

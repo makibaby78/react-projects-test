@@ -1,6 +1,7 @@
 import { CarouselData } from './CarouselData'
 import './Carousel.css'
 import React, {useState, useEffect} from 'react'
+import { Link } from 'react-router-dom'
 
 
 const Carousel = () => {
@@ -30,7 +31,7 @@ const Carousel = () => {
         <div className='c-slider' style={{marginLeft: `-${curMarginVal}%` }}>
         {CarouselData.map((objectImage, index)=>{
                         return(
-                                <div key={index} style={{ backgroundImage: `url('${objectImage.image}')` }} className="cs-item">
+                                <div className="cs-item" key={index} style={{ backgroundImage: `url('${objectImage.image}')` }}>
                           
                                 </div>
                         )
@@ -43,7 +44,7 @@ const Carousel = () => {
         </div>
         <div className='c-title'>
           <h1>Let's Get Started With Kettle</h1>
-          <button>PURCHASE NOW!</button>
+          <Link to='/order'><button>PURCHASE NOW!</button></Link>
         </div>
     </div>
   )

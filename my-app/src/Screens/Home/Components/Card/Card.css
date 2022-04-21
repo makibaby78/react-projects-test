@@ -15,8 +15,9 @@
 }
 .card-content-wrapper{
     border-top: 5px solid #4a4861;
-    overflow: hidden;
     margin: auto;
+    overflow: hidden;
+    background-color: #f0ebe7;
 }
 .card-description {
     position: absolute;
