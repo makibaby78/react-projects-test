@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-projects-test/static/css/main.6bc0778d.css",
-    "main.js": "/react-projects-test/static/js/main.907ce3b8.js",
+    "main.js": "/react-projects-test/static/js/main.650f3ddf.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-projects-test/static/js/787.28cb0dcd.chunk.js",
     "static/media/Dark Muffins.jpg": "/react-projects-test/static/media/Dark Muffins.76b2799c0ff768a5e0ac.jpg",
     "static/media/Brown Cake.jpg": "/react-projects-test/static/media/Brown Cake.fca0f8a7df6c60ade997.jpg",
@@ -15,11 +15,11 @@
     "static/media/TrendSansOne.ttf": "/react-projects-test/static/media/TrendSansOne.9bcb6bb0127099cace55.ttf",
     "index.html": "/react-projects-test/index.html",
     "main.6bc0778d.css.map": "/react-projects-test/static/css/main.6bc0778d.css.map",
-    "main.907ce3b8.js.map": "/react-projects-test/static/js/main.907ce3b8.js.map",
+    "main.650f3ddf.js.map": "/react-projects-test/static/js/main.650f3ddf.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-projects-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bc0778d.css",
-    "static/js/main.907ce3b8.js"
+    "static/js/main.650f3ddf.js"
   ]
 }
