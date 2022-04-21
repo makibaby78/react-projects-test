@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-projects-test/static/css/main.6945d8c1.css",
-    "main.js": "/react-projects-test/static/js/main.17024331.js",
+    "main.css": "/react-projects-test/static/css/main.63eb1458.css",
+    "main.js": "/react-projects-test/static/js/main.541c18c2.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-projects-test/static/js/787.28cb0dcd.chunk.js",
     "static/media/Montserrat-Light.ttf": "/react-projects-test/static/media/Montserrat-Light.3960f7cc0c46fd5d742e.ttf",
     "static/media/Montserrat-Regular.ttf": "/react-projects-test/static/media/Montserrat-Regular.51f8426b4f4d7778a21d.ttf",
@@ -11,12 +11,12 @@
     "static/media/Sample Logo 1.png": "/react-projects-test/static/media/Sample Logo 1.f582c925c076dd86be08.png",
     "static/media/TrendSansOne.ttf": "/react-projects-test/static/media/TrendSansOne.9bcb6bb0127099cace55.ttf",
     "index.html": "/react-projects-test/index.html",
-    "main.6945d8c1.css.map": "/react-projects-test/static/css/main.6945d8c1.css.map",
-    "main.17024331.js.map": "/react-projects-test/static/js/main.17024331.js.map",
+    "main.63eb1458.css.map": "/react-projects-test/static/css/main.63eb1458.css.map",
+    "main.541c18c2.js.map": "/react-projects-test/static/js/main.541c18c2.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-projects-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6945d8c1.css",
-    "static/js/main.17024331.js"
+    "static/css/main.63eb1458.css",
+    "static/js/main.541c18c2.js"
   ]
 }
