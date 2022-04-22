@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/react-projects-test/static/css/main.cd07664a.css",
-    "main.js": "/react-projects-test/static/js/main.d120e170.js",
+    "main.css": "/react-projects-test/static/css/main.5a7a7ff7.css",
+    "main.js": "/react-projects-test/static/js/main.6bc032c6.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-projects-test/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Dark Muffins.jpg": "/react-projects-test/static/media/Dark Muffins.76b2799c0ff768a5e0ac.jpg",
     "static/media/Brown Cake.jpg": "/react-projects-test/static/media/Brown Cake.fca0f8a7df6c60ade997.jpg",
     "static/media/Cookies.jpg": "/react-projects-test/static/media/Cookies.5dbe9a7232307e9ad224.jpg",
     "static/media/Montserrat-Light.ttf": "/react-projects-test/static/media/Montserrat-Light.3960f7cc0c46fd5d742e.ttf",
     "static/media/Montserrat-Regular.ttf": "/react-projects-test/static/media/Montserrat-Regular.51f8426b4f4d7778a21d.ttf",
     "static/media/Montserrat-Bold.ttf": "/react-projects-test/static/media/Montserrat-Bold.b1483171b6765da5b1c1.ttf",
-    "static/media/ThirstyScriptExtraBoldDemo.otf": "/react-projects-test/static/media/ThirstyScriptExtraBoldDemo.92a8790640cc99ac3d8d.otf",
+    "static/media/ThirstyRoughRegular.otf": "/react-projects-test/static/media/ThirstyRoughRegular.d377602151be78238137.otf",
+    "static/media/pexels-lucie-liz-3256807.jpg": "/react-projects-test/static/media/pexels-lucie-liz-3256807.5d82000bffe523aea315.jpg",
+    "static/media/ThirstyRoughLight.otf": "/react-projects-test/static/media/ThirstyRoughLight.816c28449a51fba6228c.otf",
+    "static/media/MilasianCircaMediumPERSONAL.ttf": "/react-projects-test/static/media/MilasianCircaMediumPERSONAL.65309516bfbfe12d384b.ttf",
+    "static/media/ThirstyScriptExtraBold.otf": "/react-projects-test/static/media/ThirstyScriptExtraBold.92a8790640cc99ac3d8d.otf",
+    "static/media/Cupcakes Brown lq.jpg": "/react-projects-test/static/media/Cupcakes Brown lq.561d39d34a22174f6428.jpg",
+    "static/media/Cake lq.jpg": "/react-projects-test/static/media/Cake lq.720ab97be444bb971685.jpg",
     "static/media/BebasNeue-Regular.ttf": "/react-projects-test/static/media/BebasNeue-Regular.c501e16fa3f0781f9d73.ttf",
+    "static/media/Cupcakes lq.jpg": "/react-projects-test/static/media/Cupcakes lq.49c3a20ad9570770e86f.jpg",
+    "static/media/Generic Muffins.jpg": "/react-projects-test/static/media/Generic Muffins.5ac3a9127c9af4b9e93e.jpg",
     "static/media/Sample Logo 1.png": "/react-projects-test/static/media/Sample Logo 1.f582c925c076dd86be08.png",
     "static/media/TrendSansOne.ttf": "/react-projects-test/static/media/TrendSansOne.9bcb6bb0127099cace55.ttf",
     "index.html": "/react-projects-test/index.html",
-    "main.cd07664a.css.map": "/react-projects-test/static/css/main.cd07664a.css.map",
-    "main.d120e170.js.map": "/react-projects-test/static/js/main.d120e170.js.map",
+    "main.5a7a7ff7.css.map": "/react-projects-test/static/css/main.5a7a7ff7.css.map",
+    "main.6bc032c6.js.map": "/react-projects-test/static/js/main.6bc032c6.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-projects-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd07664a.css",
-    "static/js/main.d120e170.js"
+    "static/css/main.5a7a7ff7.css",
+    "static/js/main.6bc032c6.js"
   ]
 }
