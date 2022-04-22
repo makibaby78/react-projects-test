@@ -48,9 +48,6 @@
     position: relative;
     width: 100%;
     margin: auto;
-    overflow: hidden;
-    max-width: 1600px;
-    border-top: 5px solid #4a4861;
 }
 .cb-item {
     cursor: pointer;

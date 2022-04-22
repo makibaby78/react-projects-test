@@ -25,7 +25,19 @@
 }
 @font-face {
     font-family: ThirstyScript-ExtraBold;
-    src: url(./Fonts/ThirstyScriptExtraBoldDemo.otf);
+    src: url(./Fonts/ThirstyScriptExtraBold.otf);
+  }
+@font-face {
+    font-family: ThirstyRoughLight;
+    src: url(./Fonts/ThirstyRoughLight.otf);
+  }
+@font-face {
+    font-family: ThirstyRoughRegular;
+    src: url(./Fonts/ThirstyRoughRegular.otf);
+  }
+  @font-face {
+    font-family: MilasianCircaMedium;
+    src: url(./Fonts//MilasianCircaMediumPERSONAL.ttf);
   }
 .App{
     overflow: hidden;
@@ -55,6 +67,11 @@ button {
     border: none;
     border-radius: 18px;
 }
+.bt{
+    overflow: hidden;
+    max-width: 1600px;
+    border-top: 4px solid #4a4861;
+}
 @media screen and (max-width: 992px) {
     .btn-hc{
         display: unset;
@@ -73,6 +90,9 @@ button {
     }
   }
 @media screen and (max-width: 768px) {
+    .bt{
+        border-top: 3px solid #4a4861;
+    }
 }
 @media screen and (max-width: 600px) {
     p, span, td{
@@ -92,5 +112,8 @@ button {
     }
     button {
         padding: 10px 15px
+    }
+    .bt{
+        border-top: 2px solid #4a4861;
     }
   }

@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Card = () => {
 
   return (
-    <div className='card-content-wrapper ssw'>
+    <div className='card-content-wrapper bt ssw'>
         <div className='card-wrapper sw'>
         {CardData.map((objectImage, index)=>{
                         return(

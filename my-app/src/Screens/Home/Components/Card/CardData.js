@@ -1,6 +1,6 @@
-import SlideOne from '../../../../images/Dark Muffins.jpg'
-import SlideTwo from '../../../../images/Brown Cake.jpg'
-import SlideThree from '../../../../images/Cookies.jpg'
+import SlideOne from '../../../../images/Cupcakes Brown lq.jpg'
+import SlideTwo from '../../../../images/Cupcakes lq.jpg'
+import SlideThree from '../../../../images/Cake lq.jpg'
 
 export const CardData = [
     {

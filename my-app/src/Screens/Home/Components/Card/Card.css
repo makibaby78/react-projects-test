@@ -14,10 +14,8 @@
     padding: 50px 0;
 }
 .card-content-wrapper{
-    border-top: 5px solid #4a4861;
-    margin: auto;
-    overflow: hidden;
     background-color: #f0ebe7;
+    margin: auto;
 }
 .card-description {
     position: absolute;

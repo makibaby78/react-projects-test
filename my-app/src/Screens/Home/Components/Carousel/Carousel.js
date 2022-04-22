@@ -27,7 +27,7 @@ const Carousel = () => {
     setMarginVal(200);
   }
   return (
-    <div className='carousel-wrapper'>
+    <div className='carousel-wrapper bt'>
         <div className='c-slider' style={{marginLeft: `-${curMarginVal}%` }}>
         {CarouselData.map((objectImage, index)=>{
                         return(

@@ -2,6 +2,8 @@ import './Header.css';
 import Logo from '../../images/Sample Logo 1.png'
 import React, {useState} from 'react'
 import { Link } from 'react-router-dom'
+import OI from '../../images/open white.png'
+import CI from '../../images/close white.png'
 
 const Header = () => {
   const [headerVal, setHeaderVal]= useState('')
@@ -32,17 +34,17 @@ const Header = () => {
           <div className='h-logo-wrapper'>
             <Link to='/react-projects-test'><img width='100%' src={Logo} alt="logo" /></Link>
           </div>
-          <div onClick={activeHeader} style={{ backgroundImage: "url('images/open white.png')" }} className='btn-ho'></div>
+          <div onClick={activeHeader} style={{ backgroundImage: `url('${OI}')`}} className='btn-ho'></div>
         </div>
         <ul className='header-def'>
             <Link to="/react-projects-test" className='ni'><li>Home</li></Link>
             <Link to="/cakes" className='ni'><li>Cakes</li></Link>
             <Link to="/react-projects-test" className='ni'><li><img src={Logo} alt="logo" /></li></Link>
-            <Link to="/cakes" className='ni'><li>Cupcakes</li></Link>
-            <Link to="/cakes" className='ni'><li>Contact</li></Link>
+            <Link to="/cupcakes" className='ni'><li>Cupcakes</li></Link>
+            <Link to="/contact" className='ni'><li>Contact</li></Link>
         </ul>
         <div className={`header-res ${headerVal}`}>
-          <div onClick={showHeader} style={{ backgroundImage: "url('images/close white.png')" }} className={`btn-hc ${headerStat}`}></div>
+          <div onClick={showHeader} style={{ backgroundImage: `url('${CI}')` }} className={`btn-hc ${headerStat}`}></div>
             <ul>
                 <Link to="/react-projects-test" className="header-res-logo"><li><img src={Logo} alt="logo" /></li></Link>
                 <Link to="/react-projects-test"><li>Home</li></Link>

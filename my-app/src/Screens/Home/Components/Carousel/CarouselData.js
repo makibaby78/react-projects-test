@@ -1,16 +1,21 @@
+import SlideOne from '../../../../images/Generic Muffins.jpg'
+import SlideTwo from '../../../../images/Brown Cake.jpg'
+import SlideThree from '../../../../images/Cookies.jpg'
+
+
 export const CarouselData = [
     {
-        image:'images/Generic Muffins.jpg',
+        image: SlideOne,
         string: "yeah",
         id: '1',
     },
     {
-        image:'images/Brown Cake.jpg',
+        image:SlideTwo,
         string: "no",
         id: '2',
     },
     {
-        image:'images/Cookies.jpg',
+        image:SlideThree,
         string: "yeah",
         id: '3',
     }

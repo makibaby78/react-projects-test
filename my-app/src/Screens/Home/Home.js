@@ -1,6 +1,7 @@
 import React from 'react'
 import Card from './Components/Card/Card'
 import Carousel from './Components/Carousel/Carousel'
+import Philosophy from './Components/Philosophy/Philosophy'
 import './Home.css'
 
 const Home = () => {
@@ -8,6 +9,7 @@ const Home = () => {
     <div className='Home'>
         <Carousel />
         <Card />
+        <Philosophy />
     </div>
   )
 }
