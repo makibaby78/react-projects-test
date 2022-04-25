@@ -10,6 +10,7 @@ import Menu from './Screens/Menu/Menu'
 import Cakes from './Screens/Cakes/Cakes'
 import Cupcakes from './Screens/Cupcakes/Cupcakes'
 import Contact from './Screens/Contact/Contact'
+import Order from './Screens/Order/Order'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Routes>
             <Route path="/react-projects-test" element={<Home />} />
             <Route path="/*" element={<ErrorPage />} />
+            <Route path="/order" element={<Order/>} />
             <Route path="/catering" element={<Catering />} />
             <Route path="/menu" element={<Menu />} />
             <Route path="/cakes" element={<Cakes />} />
