@@ -11,24 +11,29 @@ import Cakes from './Screens/Cakes/Cakes'
 import Cupcakes from './Screens/Cupcakes/Cupcakes'
 import Contact from './Screens/Contact/Contact'
 import Order from './Screens/Order/Order'
+import Shoppingcart from './Screens/ShoppingCart/ShoppingCart'
+import Headerv2 from './Screens/Header/Headerv2'
+
 
 function App() {
   return (
     <div className="App">
-        <Router>
-          <Header />
-          <Routes>
-            <Route path="/react-projects-test" element={<Home />} />
-            <Route path="/*" element={<ErrorPage />} />
-            <Route path="/order" element={<Order/>} />
-            <Route path="/catering" element={<Catering />} />
-            <Route path="/menu" element={<Menu />} />
-            <Route path="/cakes" element={<Cakes />} />
-            <Route path="/cupcakes" element={<Cupcakes />} />
-            <Route path="/contact" element={<Contact />} />
-          </Routes>
-          <Footer />
-        </Router>
+          <Router>
+            <Header />
+            <Headerv2 />
+            <Routes>
+              <Route path="/react-projects-test" element={<Home />} />
+              <Route path="/*" element={<ErrorPage />} />
+              <Route path="/order" element={<Order/>} />
+              <Route path="/catering" element={<Catering />} />
+              <Route path="/menu" element={<Menu />} />
+              <Route path="/cakes" element={<Cakes />} />
+              <Route path="/cupcakes" element={<Cupcakes />} />
+              <Route path="/contact" element={<Contact />} />
+              <Route path="/shoppingcart" element={<Shoppingcart />} />
+            </Routes>
+            <Footer />
+          </Router>
     </div>
   );
 }

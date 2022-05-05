@@ -18,13 +18,32 @@
     justify-content: center;
     margin: auto;
 }
+.order-card button {
+    padding: 10px 15px;
+    margin: 10px auto;
+    background-color: #4a4861;
+    color: #fff;
+    transition: 0.2s;
+    border: 1px solid #4a4861;
+}
+.order-card button:hover {
+    background-color: #fff;
+    color: #4a4861;
+    transition: 0.2s;
+    box-sizing: border-box;
+}
 .order-card {
-    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.4);
+    box-shadow: 1px 1px 3px 0px rgb(0 0 0 / 40%);
     padding: 15px;
     max-width: 172px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
 }
 .card-description-order {
-    min-height: 60px;
+    min-height: 30px;
     text-align: center;
     display: flex;
     flex-direction: column;

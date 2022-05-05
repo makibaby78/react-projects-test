@@ -35,10 +35,15 @@
     font-family: ThirstyRoughRegular;
     src: url(./Fonts/ThirstyRoughRegular.otf);
   }
-  @font-face {
+@font-face {
     font-family: MilasianCircaMedium;
     src: url(./Fonts//MilasianCircaMediumPERSONAL.ttf);
   }
+@font-face {
+    font-family: libre-baskerville-bold;
+    src: url(./Fonts/libre-baskerville.bold.ttf);
+  }
+  
 .App{
     overflow: hidden;
 }
@@ -52,6 +57,9 @@ h1{
     font-size: 50px;
 }
 /*Helpers*/
+.smh{
+    min-height: 650px;
+}
 .sw{
     width: 80%;
     max-width: 1200px;

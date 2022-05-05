@@ -1,9 +1,36 @@
+
+/*header Second*/
+.header-second {
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(0 0 0 / 30%);
+}
+.header-second a{
+    text-decoration: none;
+}
+.cart-wrapper span{
+    font-size: 30px;
+    color: #ff8f00;
+    font-family: libre-baskerville-bold;
+}
+.cart-wrapper {
+    display: flex;
+    align-items: center;
+}
+.cart-wrapper img{
+    max-width: 50px;
+}
+/*end of header Second*/
 .Header ul {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 10px 0;
     column-gap: 15px;
+}
+.login-status-bar{
+    background-color: #fff;
+    padding: 5px;
 }
 .Header {
     position: relative;
