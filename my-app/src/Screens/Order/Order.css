@@ -38,3 +38,38 @@
     flex-direction: column;
     justify-content: space-between;
 }
+@media screen and (max-width: 992px) {
+    .header-second {
+        padding: 10px;
+        width: 70px;
+        height: 70px;
+    }
+    .cart-wrapper span {
+        font-size: 45px;
+        top: -10px;
+    }
+  }
+@media screen and (max-width: 768px) {
+    .order-card {
+        width: calc(33% - 7px);
+    }
+}
+@media screen and (max-width: 600px) {
+    .order-card {
+        width: calc(49% - 7px);
+    }
+}
+@media screen and (max-width: 480px) {
+    .order-card {
+        width: 100%;
+    }
+    .header-second {
+        padding: 10px;
+        width: 50px;
+        height: 50px;
+    }
+    .cart-wrapper span {
+        font-size: 35px;
+        top: -10px;
+    }
+}
