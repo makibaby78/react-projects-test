@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d35ab6b70f00d4f00cc5",
-    "url": "/react-projects-test/static/css/main.6cc89fd4.chunk.css"
+    "revision": "b34dd0b95b7507f5fd2b",
+    "url": "/react-projects-test/static/css/main.b789588d.chunk.css"
   },
   {
-    "revision": "d35ab6b70f00d4f00cc5",
-    "url": "/react-projects-test/static/js/main.d35ab6b7.chunk.js"
+    "revision": "b34dd0b95b7507f5fd2b",
+    "url": "/react-projects-test/static/js/main.b34dd0b9.chunk.js"
   },
   {
-    "revision": "877ddeaf8032078f6663",
-    "url": "/react-projects-test/static/js/1.877ddeaf.chunk.js"
+    "revision": "6d901b3e33806cc9ca52",
+    "url": "/react-projects-test/static/js/1.6d901b3e.chunk.js"
   },
   {
-    "revision": "746413b2018f6d04a1ec",
-    "url": "/react-projects-test/static/js/2.746413b2.chunk.js"
+    "revision": "308364f9ac28c1710504",
+    "url": "/react-projects-test/static/js/2.308364f9.chunk.js"
   },
   {
-    "revision": "227afd2cb6779992a1c9",
-    "url": "/react-projects-test/static/js/runtime~main.227afd2c.js"
+    "revision": "f889d0ca276abcd74120",
+    "url": "/react-projects-test/static/js/runtime~main.f889d0ca.js"
   },
   {
     "revision": "a9daebab7dab1d6be8e336a10269e491",
@@ -52,32 +52,16 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/pexels-lucie-liz-3256807.55fc7d16.jpg"
   },
   {
-    "revision": "69ece5c85a2692b5178173682156af1f",
-    "url": "/react-projects-test/static/media/hazelnut-cupcake.69ece5c8.png"
-  },
-  {
-    "revision": "6557acaeb8f8f89a8f512db72c1435f2",
-    "url": "/react-projects-test/static/media/glaze-donut.6557acae.png"
-  },
-  {
-    "revision": "447f971986fdf76c088eb4e58fee70c4",
-    "url": "/react-projects-test/static/media/Donut.447f9719.png"
-  },
-  {
-    "revision": "b06a8293c0349e57915cbb861f443638",
-    "url": "/react-projects-test/static/media/croissants.b06a8293.png"
-  },
-  {
-    "revision": "1fcb36758564f8b2ff9f6d3d2013fad7",
-    "url": "/react-projects-test/static/media/choco-donut.1fcb3675.png"
-  },
-  {
-    "revision": "d92798bbce16760d44378242bf029532",
-    "url": "/react-projects-test/static/media/native-bread.d92798bb.png"
-  },
-  {
     "revision": "47f711bd1524b9283aa92d3d74db16a8",
     "url": "/react-projects-test/static/media/BebasNeue-Regular.47f711bd.ttf"
+  },
+  {
+    "revision": "2192443373f4e6d6fe159bd11d497c24",
+    "url": "/react-projects-test/static/media/ThirstyScriptExtraBold.21924433.otf"
+  },
+  {
+    "revision": "718651c5afbbca8153f7c78027f16a85",
+    "url": "/react-projects-test/static/media/TrendSansOne.718651c5.ttf"
   },
   {
     "revision": "57a8d90fbe52cdc657be8d679f925066",
@@ -92,16 +76,12 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/Montserrat-Bold.0c12ee2f.ttf"
   },
   {
-    "revision": "718651c5afbbca8153f7c78027f16a85",
-    "url": "/react-projects-test/static/media/TrendSansOne.718651c5.ttf"
-  },
-  {
-    "revision": "2192443373f4e6d6fe159bd11d497c24",
-    "url": "/react-projects-test/static/media/ThirstyScriptExtraBold.21924433.otf"
-  },
-  {
     "revision": "c513283c055aa42238561a31ad9e6737",
     "url": "/react-projects-test/static/media/ThirstyRoughLight.c513283c.otf"
+  },
+  {
+    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
+    "url": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
   },
   {
     "revision": "8588f6fedb41275ed6501522a7ad8f2a",
@@ -112,11 +92,7 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/ThirstyRoughRegular.d6ee8f76.otf"
   },
   {
-    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
-    "url": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
-  },
-  {
-    "revision": "2cf82891ac608c0239dc6190fd7c9e4c",
+    "revision": "a34b4924546df62158aac9d7481f5682",
     "url": "/react-projects-test/index.html"
   }
 ];
