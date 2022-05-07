@@ -1,7 +1,7 @@
 {
-  "main.css": "/react-projects-test/static/css/main.16f19171.chunk.css",
-  "main.js": "/react-projects-test/static/js/main.1e381f26.chunk.js",
-  "main.js.map": "/react-projects-test/static/js/main.1e381f26.chunk.js.map",
+  "main.css": "/react-projects-test/static/css/main.6cc89fd4.chunk.css",
+  "main.js": "/react-projects-test/static/js/main.d35ab6b7.chunk.js",
+  "main.js.map": "/react-projects-test/static/js/main.d35ab6b7.chunk.js.map",
   "static/js/1.877ddeaf.chunk.js": "/react-projects-test/static/js/1.877ddeaf.chunk.js",
   "static/js/1.877ddeaf.chunk.js.map": "/react-projects-test/static/js/1.877ddeaf.chunk.js.map",
   "static/js/2.746413b2.chunk.js": "/react-projects-test/static/js/2.746413b2.chunk.js",
@@ -23,8 +23,8 @@
   "static/media/choco-donut.png": "/react-projects-test/static/media/choco-donut.1fcb3675.png",
   "static/media/native-bread.png": "/react-projects-test/static/media/native-bread.d92798bb.png",
   "static/media/App.css": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf",
-  "static/css/main.16f19171.chunk.css.map": "/react-projects-test/static/css/main.16f19171.chunk.css.map",
+  "static/css/main.6cc89fd4.chunk.css.map": "/react-projects-test/static/css/main.6cc89fd4.chunk.css.map",
   "index.html": "/react-projects-test/index.html",
-  "precache-manifest.f7e641895619f70e6fd7ef07ad003ab4.js": "/react-projects-test/precache-manifest.f7e641895619f70e6fd7ef07ad003ab4.js",
+  "precache-manifest.b13996087cccd6dcd6bf44bc6113943f.js": "/react-projects-test/precache-manifest.b13996087cccd6dcd6bf44bc6113943f.js",
   "service-worker.js": "/react-projects-test/service-worker.js"
 }

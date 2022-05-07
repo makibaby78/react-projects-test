@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1e381f26af1350b1c675",
-    "url": "/react-projects-test/static/css/main.16f19171.chunk.css"
+    "revision": "d35ab6b70f00d4f00cc5",
+    "url": "/react-projects-test/static/css/main.6cc89fd4.chunk.css"
   },
   {
-    "revision": "1e381f26af1350b1c675",
-    "url": "/react-projects-test/static/js/main.1e381f26.chunk.js"
+    "revision": "d35ab6b70f00d4f00cc5",
+    "url": "/react-projects-test/static/js/main.d35ab6b7.chunk.js"
   },
   {
     "revision": "877ddeaf8032078f6663",
@@ -88,6 +88,10 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/Montserrat-Regular.68900018.ttf"
   },
   {
+    "revision": "0c12ee2fd868459a1db633259b2ba50a",
+    "url": "/react-projects-test/static/media/Montserrat-Bold.0c12ee2f.ttf"
+  },
+  {
     "revision": "718651c5afbbca8153f7c78027f16a85",
     "url": "/react-projects-test/static/media/TrendSansOne.718651c5.ttf"
   },
@@ -96,27 +100,23 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/ThirstyScriptExtraBold.21924433.otf"
   },
   {
-    "revision": "0c12ee2fd868459a1db633259b2ba50a",
-    "url": "/react-projects-test/static/media/Montserrat-Bold.0c12ee2f.ttf"
-  },
-  {
     "revision": "c513283c055aa42238561a31ad9e6737",
     "url": "/react-projects-test/static/media/ThirstyRoughLight.c513283c.otf"
-  },
-  {
-    "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
-    "url": "/react-projects-test/static/media/ThirstyRoughRegular.d6ee8f76.otf"
   },
   {
     "revision": "8588f6fedb41275ed6501522a7ad8f2a",
     "url": "/react-projects-test/static/media/MilasianCircaMediumPERSONAL.8588f6fe.ttf"
   },
   {
+    "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
+    "url": "/react-projects-test/static/media/ThirstyRoughRegular.d6ee8f76.otf"
+  },
+  {
     "revision": "2fe5fb7f37535452bc6a61d52d61660a",
     "url": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
   },
   {
-    "revision": "9dabfa75e3967bb58f9e95ea1b69e5d1",
+    "revision": "2cf82891ac608c0239dc6190fd7c9e4c",
     "url": "/react-projects-test/index.html"
   }
 ];
