@@ -30,6 +30,7 @@
     align-items: center;
     width: calc(33% - 5px);
     background-color: #fff;
+    row-gap: 5px;
 }
 .card-description-order {
     min-height: 30px;
