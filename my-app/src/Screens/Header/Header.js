@@ -4,7 +4,6 @@ import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import OI from '../../images/open white.png'
 import CI from '../../images/close white.png'
-import cart from '../../images/cart-icon.png'
 
 const Header = () => {
   const [headerVal, setHeaderVal]= useState('')

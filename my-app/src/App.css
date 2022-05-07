@@ -57,8 +57,12 @@ h1{
     font-size: 50px;
 }
 /*Helpers*/
+.spta {
+    text-align: center;
+    padding: 15px 0;
+}
 .smh{
-    min-height: 650px;
+    min-height: 80vh;
 }
 .sw{
     width: 80%;

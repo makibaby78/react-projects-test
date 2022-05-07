@@ -1,5 +1,5 @@
 import React from 'react'
-import cart from '../../images/cart-icon-white.png'
+import cart from '../../images/cart-icon.png'
 import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
 

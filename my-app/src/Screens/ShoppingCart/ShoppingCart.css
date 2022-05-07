@@ -1,7 +1,23 @@
-.shoppingcart-wrapper.sw {
+.shoppingcart-wrapper {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     row-gap: 15px;
+}
+.shoppingcart-wrapper h1 {
+    padding: 20px 0;
+}
+.cart-img {
+    height: 150px;
+    width: 150px;
+    background-color: #000;
+}
+.cart-item-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    column-gap: 25px;
+    box-shadow: 1px 1px 3px 0px rgb(0 0 0 / 40%);
+    padding: 15px;
+    width: 100%;
 }

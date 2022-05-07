@@ -7,21 +7,24 @@ import { addToCart } from '../../features/addToCart'
 const Order = () => {
   const dispatch = useDispatch();
   return (
-    <div className='order-wrapper ssw'>
-      <div className='order-content-wrapper sw'>
-        {ProductData.map((products)=>{
-          return(
-            <div className='order-card' key={products.id}>
-              <div className='card-item-order' style={{ backgroundImage: `url('${products.image}')` }}>
+    <div className='order-wrapper ssw smh'>
+      <div className='sw order-content-wrapper spta'>
+        <h1>PRODUCTS</h1>
+        <div className='products-wrapper'>
+          {ProductData.map((products)=>{
+            return(
+              <div className='order-card' key={products.id}>
+                <div className='card-item-order' style={{ backgroundImage: `url('${products.image}')` }}>
+                </div>
+                <div className='card-description-order'>
+                  <h5>{products.description}</h5>
+                  <h5>${products.price}</h5>
+                </div>
+                <button onClick={()=>{dispatch(addToCart({id:`${products.id}`, price:`${products.price}`, para:`${products.para}`}))}}>Add to Cart!</button>
               </div>
-              <div className='card-description-order'>
-                <h5>{products.description}</h5>
-                <h5>${products.price}</h5>
-              </div>
-              <button onClick={()=>{dispatch(addToCart({id:`${products.id}`, price:`${products.price}`}))}}>Add to Cart!</button>
-            </div>
-          )
-        })}
+            )
+          })}
+        </div>
       </div>
     </div>
   )
