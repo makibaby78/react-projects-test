@@ -13,6 +13,7 @@ import Contact from './Screens/Contact/Contact'
 import Order from './Screens/Order/Order'
 import Shoppingcart from './Screens/ShoppingCart/ShoppingCart'
 import Headerv2 from './Screens/Header/Headerv2'
+import ProductInfoTemplate from './Screens/ProductInfoTemplate/ProductInfoTemplate'
 
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
               <Route path="/cupcakes" element={<Cupcakes />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/shoppingcart" element={<Shoppingcart />} />
+              <Route path="/product-info" element={<ProductInfoTemplate />} />
             </Routes>
             <Footer />
           </Router>

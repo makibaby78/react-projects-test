@@ -57,6 +57,21 @@ h1{
     font-size: 50px;
 }
 /*Helpers*/
+.universal-btn {
+    padding: 10px 15px;
+    margin: 10px auto;
+    background-color: #4a4861;
+    color: #fff;
+    transition: 0.2s;
+    border: 1px solid #4a4861;
+    transition-duration: 0.3s;
+}
+.universal-btn:hover {
+    background-color: #fff;
+    color: #4a4861;
+    transition: 0.2s;
+    box-sizing: border-box;
+}
 .spta {
     text-align: center;
     padding: 15px 0;

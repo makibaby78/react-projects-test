@@ -11,6 +11,7 @@
 }
 .order-wrapper{
     margin: auto;
+    background-color: #f8f8f8;
 }
 .products-wrapper  {
     padding: 20px 0;
@@ -18,20 +19,6 @@
     column-gap: 10px;
     row-gap: 10px;
     flex-wrap: wrap;
-}
-.order-card button {
-    padding: 10px 15px;
-    margin: 10px auto;
-    background-color: #4a4861;
-    color: #fff;
-    transition: 0.2s;
-    border: 1px solid #4a4861;
-}
-.order-card button:hover {
-    background-color: #fff;
-    color: #4a4861;
-    transition: 0.2s;
-    box-sizing: border-box;
 }
 .order-card {
     box-shadow: 1px 1px 3px 0px rgb(0 0 0 / 40%);
@@ -42,6 +29,7 @@
     flex-direction: column;
     align-items: center;
     width: calc(33% - 5px);
+    background-color: #fff;
 }
 .card-description-order {
     min-height: 30px;

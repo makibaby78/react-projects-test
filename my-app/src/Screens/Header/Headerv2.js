@@ -6,9 +6,9 @@ import { Link } from 'react-router-dom'
 const Headerv2 = () => {
     const cartToDisplay = useSelector((state)=>state.addToCartReducers.value)
   return (
-    <div className='header-second ssw'>
+    <div className='header-second'>
     <Link to="/shoppingCart">
-      <div className='cart-wrapper sw'>
+      <div className='cart-wrapper'>
           <img width='100%' src={cart} alt='cart-icon'/>
           <span>{cartToDisplay.length}</span>
       </div>

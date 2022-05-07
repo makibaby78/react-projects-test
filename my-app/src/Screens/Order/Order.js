@@ -20,7 +20,7 @@ const Order = () => {
                   <h5>{products.description}</h5>
                   <h5>${products.price}</h5>
                 </div>
-                <button onClick={()=>{dispatch(addToCart({id:`${products.id}`, price:`${products.price}`, para:`${products.para}`}))}}>Add to Cart!</button>
+                <button className='universal-btn' onClick={()=>{dispatch(addToCart({id:`${products.id}`, price:`${products.price}`, para:`${products.para}`, link:`${products.link}`, description:`${products.description}`}))}}>Add to Cart!</button>
               </div>
             )
           })}
