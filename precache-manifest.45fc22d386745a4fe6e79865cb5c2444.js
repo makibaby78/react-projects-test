@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "81e664b12f2b76257463",
-    "url": "/react-projects-test/static/css/main.7d0ab14d.chunk.css"
+    "revision": "2999c32756370662c565",
+    "url": "/react-projects-test/static/css/main.961ab431.chunk.css"
   },
   {
-    "revision": "81e664b12f2b76257463",
-    "url": "/react-projects-test/static/js/main.81e664b1.chunk.js"
+    "revision": "2999c32756370662c565",
+    "url": "/react-projects-test/static/js/main.2999c327.chunk.js"
   },
   {
     "revision": "6d901b3e33806cc9ca52",
@@ -56,24 +56,20 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/BebasNeue-Regular.47f711bd.ttf"
   },
   {
-    "revision": "718651c5afbbca8153f7c78027f16a85",
-    "url": "/react-projects-test/static/media/TrendSansOne.718651c5.ttf"
-  },
-  {
     "revision": "57a8d90fbe52cdc657be8d679f925066",
     "url": "/react-projects-test/static/media/Montserrat-Light.57a8d90f.ttf"
   },
   {
-    "revision": "6890001898a6fc1b36ddc2ed0195e2d8",
-    "url": "/react-projects-test/static/media/Montserrat-Regular.68900018.ttf"
-  },
-  {
-    "revision": "0c12ee2fd868459a1db633259b2ba50a",
-    "url": "/react-projects-test/static/media/Montserrat-Bold.0c12ee2f.ttf"
+    "revision": "718651c5afbbca8153f7c78027f16a85",
+    "url": "/react-projects-test/static/media/TrendSansOne.718651c5.ttf"
   },
   {
     "revision": "2192443373f4e6d6fe159bd11d497c24",
     "url": "/react-projects-test/static/media/ThirstyScriptExtraBold.21924433.otf"
+  },
+  {
+    "revision": "0c12ee2fd868459a1db633259b2ba50a",
+    "url": "/react-projects-test/static/media/Montserrat-Bold.0c12ee2f.ttf"
   },
   {
     "revision": "c513283c055aa42238561a31ad9e6737",
@@ -84,15 +80,19 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
   },
   {
-    "revision": "8588f6fedb41275ed6501522a7ad8f2a",
-    "url": "/react-projects-test/static/media/MilasianCircaMediumPERSONAL.8588f6fe.ttf"
-  },
-  {
     "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
     "url": "/react-projects-test/static/media/ThirstyRoughRegular.d6ee8f76.otf"
   },
   {
-    "revision": "f9ffd20a2408e5863edac6933f7119aa",
+    "revision": "6890001898a6fc1b36ddc2ed0195e2d8",
+    "url": "/react-projects-test/static/media/Montserrat-Regular.68900018.ttf"
+  },
+  {
+    "revision": "8588f6fedb41275ed6501522a7ad8f2a",
+    "url": "/react-projects-test/static/media/MilasianCircaMediumPERSONAL.8588f6fe.ttf"
+  },
+  {
+    "revision": "e0199e7ac3bfa7047c0297ceb75a15d7",
     "url": "/react-projects-test/index.html"
   }
 ];
