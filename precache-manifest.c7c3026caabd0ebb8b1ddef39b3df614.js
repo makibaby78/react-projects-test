@@ -64,20 +64,12 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/BebasNeue-Regular.47f711bd.ttf"
   },
   {
-    "revision": "2192443373f4e6d6fe159bd11d497c24",
-    "url": "/react-projects-test/static/media/ThirstyScriptExtraBold.21924433.otf"
-  },
-  {
     "revision": "6890001898a6fc1b36ddc2ed0195e2d8",
     "url": "/react-projects-test/static/media/Montserrat-Regular.68900018.ttf"
   },
   {
     "revision": "57a8d90fbe52cdc657be8d679f925066",
     "url": "/react-projects-test/static/media/Montserrat-Light.57a8d90f.ttf"
-  },
-  {
-    "revision": "c513283c055aa42238561a31ad9e6737",
-    "url": "/react-projects-test/static/media/ThirstyRoughLight.c513283c.otf"
   },
   {
     "revision": "718651c5afbbca8153f7c78027f16a85",
@@ -88,20 +80,28 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/Montserrat-Bold.0c12ee2f.ttf"
   },
   {
-    "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
-    "url": "/react-projects-test/static/media/ThirstyRoughRegular.d6ee8f76.otf"
-  },
-  {
-    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
-    "url": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
+    "revision": "2192443373f4e6d6fe159bd11d497c24",
+    "url": "/react-projects-test/static/media/ThirstyScriptExtraBold.21924433.otf"
   },
   {
     "revision": "8588f6fedb41275ed6501522a7ad8f2a",
     "url": "/react-projects-test/static/media/MilasianCircaMediumPERSONAL.8588f6fe.ttf"
   },
   {
+    "revision": "c513283c055aa42238561a31ad9e6737",
+    "url": "/react-projects-test/static/media/ThirstyRoughLight.c513283c.otf"
+  },
+  {
+    "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
+    "url": "/react-projects-test/static/media/ThirstyRoughRegular.d6ee8f76.otf"
+  },
+  {
     "revision": "3670aa493ee09e92c7b8e1e7c2f5b441",
     "url": "/react-projects-test/static/media/CaviarDreams.3670aa49.ttf"
+  },
+  {
+    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
+    "url": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
   },
   {
     "revision": "bb4adcaab8cb4cec34badea5f999392d",
