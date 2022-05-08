@@ -29,6 +29,7 @@
     transition-duration: 0.3s;
     width: 100%;
     font-size: 28px;
+    max-width: 280px;
 }
 .cart-options span{
     cursor: pointer;

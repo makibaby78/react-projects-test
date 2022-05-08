@@ -44,4 +44,22 @@
 }
 .spacer{
     height: 30px;
-}   
+}
+@media screen and (max-width: 992px) {
+    .mbw-img-wrapper {
+        height: 200px;
+        padding: 13px;
+    } 
+}
+@media screen and (max-width: 768px) {
+    .mbw-img-wrapper {
+        height: 150px;
+        padding: 12px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .mbw-img-wrapper {
+        height: 100px;
+        padding: 10px;
+    }
+  }
