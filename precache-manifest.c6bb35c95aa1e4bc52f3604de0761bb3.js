@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cb91356d2aa0915285b4",
-    "url": "/react-projects-test/static/css/main.a9dda09b.chunk.css"
+    "revision": "e805b615daf7c8fa2373",
+    "url": "/react-projects-test/static/css/main.e5a1ee86.chunk.css"
   },
   {
-    "revision": "cb91356d2aa0915285b4",
-    "url": "/react-projects-test/static/js/main.cb91356d.chunk.js"
+    "revision": "e805b615daf7c8fa2373",
+    "url": "/react-projects-test/static/js/main.e805b615.chunk.js"
   },
   {
     "revision": "877ddeaf8032078f6663",
@@ -72,6 +72,26 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/Montserrat-Bold.0c12ee2f.ttf"
   },
   {
+    "revision": "8588f6fedb41275ed6501522a7ad8f2a",
+    "url": "/react-projects-test/static/media/MilasianCircaMediumPERSONAL.8588f6fe.ttf"
+  },
+  {
+    "revision": "c513283c055aa42238561a31ad9e6737",
+    "url": "/react-projects-test/static/media/ThirstyRoughLight.c513283c.otf"
+  },
+  {
+    "revision": "6890001898a6fc1b36ddc2ed0195e2d8",
+    "url": "/react-projects-test/static/media/Montserrat-Regular.68900018.ttf"
+  },
+  {
+    "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
+    "url": "/react-projects-test/static/media/ThirstyRoughRegular.d6ee8f76.otf"
+  },
+  {
+    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
+    "url": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
+  },
+  {
     "revision": "2192443373f4e6d6fe159bd11d497c24",
     "url": "/react-projects-test/static/media/ThirstyScriptExtraBold.21924433.otf"
   },
@@ -80,31 +100,11 @@ self.__precacheManifest = [
     "url": "/react-projects-test/static/media/TrendSansOne.718651c5.ttf"
   },
   {
-    "revision": "6890001898a6fc1b36ddc2ed0195e2d8",
-    "url": "/react-projects-test/static/media/Montserrat-Regular.68900018.ttf"
-  },
-  {
     "revision": "3670aa493ee09e92c7b8e1e7c2f5b441",
     "url": "/react-projects-test/static/media/CaviarDreams.3670aa49.ttf"
   },
   {
-    "revision": "c513283c055aa42238561a31ad9e6737",
-    "url": "/react-projects-test/static/media/ThirstyRoughLight.c513283c.otf"
-  },
-  {
-    "revision": "d6ee8f76acb15b46f0b3ceda33e676ee",
-    "url": "/react-projects-test/static/media/ThirstyRoughRegular.d6ee8f76.otf"
-  },
-  {
-    "revision": "8588f6fedb41275ed6501522a7ad8f2a",
-    "url": "/react-projects-test/static/media/MilasianCircaMediumPERSONAL.8588f6fe.ttf"
-  },
-  {
-    "revision": "2fe5fb7f37535452bc6a61d52d61660a",
-    "url": "/react-projects-test/static/media/libre-baskerville.bold.2fe5fb7f.ttf"
-  },
-  {
-    "revision": "4c8d8ecceda6e32fe6baa50fcec8794c",
+    "revision": "7ba1fb2fb6c7deeab57aae6f20b1d99d",
     "url": "/react-projects-test/index.html"
   }
 ];
