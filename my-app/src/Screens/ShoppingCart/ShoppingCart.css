@@ -1,11 +1,9 @@
 .shoppingcart-content-wrapper{
     width: 100%;
 }
-.shoppingcart-wrapper{
+.shoppingcart-wrapper {
     background-color: #f8f8f8;
-}
-.shoppingcart-wrapper h1 {
-    padding: 20px 0;
+    margin: auto;
 }
 .shoppingcart-miw {
     display: flex;
@@ -28,8 +26,9 @@
     margin: 20px 0;
     background-color: #4a4861;
     color: #fff;
-    font-size: 15px;
     transition-duration: 0.3s;
+    width: 100%;
+    font-size: 28px;
 }
 .cart-options span{
     cursor: pointer;

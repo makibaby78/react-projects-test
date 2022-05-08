@@ -5,18 +5,18 @@ import { useDispatch } from 'react-redux'
 import { productInfoDisplay } from '../../features/productInfo'
 import { addToCart } from '../../features/addToCart'
 
-const Cakes = () => {
-  const dispatch = useDispatch();
+const Bread = () => {
+    const dispatch = useDispatch();
   return (
-  <div className='cakes-wrapper sw smh'>
-    <div className='cakes-content-wrapper ssw spta'>
-      <h1>CAKES</h1>
-      <div className='pit-options'>
-        <Link to="/menu"><h2>MENU</h2></Link>
-        <Link to="/order"><h2>Shop</h2></Link>
-      </div>
-      <div className='products-wrapper'>
-            {ProductData.filter(product => product.type==='cakes').map((products)=>{
+    <div className='bread-wrapper sw smh'>
+        <div className='bread-content-wrapper ssw spta'>
+            <h1>BREAD</h1>
+            <div className='pit-options'>
+                <Link to="/menu"><h2>MENU</h2></Link>
+                <Link to="/order"><h2>Shop</h2></Link>
+            </div>
+            <div className='products-wrapper'>
+            {ProductData.filter(product => product.type==='bread').map((products)=>{
                 return(
                 <div className='order-card' key={products.id}>
                     <div className='card-item-order' style={{ backgroundImage: `url('${products.image}')` }}>
@@ -30,10 +30,10 @@ const Cakes = () => {
                 </div>
                 )
             })}
+            </div>
         </div>
     </div>
-  </div>
   )
 }
 
-export default Cakes
+export default Bread

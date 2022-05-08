@@ -33,11 +33,17 @@
     row-gap: 5px;
 }
 .card-description-order {
-    min-height: 30px;
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    row-gap: 5px;
+}
+.card-description-order a{
+    color: #000;
+}
+.card-description-order a:hover{
+    color: #4a4861;
 }
 @media screen and (max-width: 992px) {
     .header-second {

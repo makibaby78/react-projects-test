@@ -43,6 +43,10 @@
     font-family: libre-baskerville-bold;
     src: url(./Fonts/libre-baskerville.bold.ttf);
   }
+@font-face {
+    font-family: CaviarDreams;
+    src: url(./Fonts/CaviarDreams.ttf);
+  }
   
 .App{
     overflow: hidden;
@@ -53,8 +57,15 @@
   box-sizing: border-box;
   font-family: TrendSansOne;
 }
+p{
+    font-family: Montserrat-Light;
+}
 h1{
     font-size: 50px;
+    padding: 20px 0;
+}
+h3{
+    font-size: 25px;
 }
 /*Helpers*/
 .universal-btn {

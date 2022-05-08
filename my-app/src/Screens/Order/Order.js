@@ -3,6 +3,8 @@ import './Order.css'
 import ProductData from '../../Products/ProductData'
 import { useDispatch } from 'react-redux'
 import { addToCart } from '../../features/addToCart'
+import { Link } from 'react-router-dom'
+import { productInfoDisplay } from '../../features/productInfo'
 
 const Order = () => {
   const dispatch = useDispatch();
@@ -18,9 +20,10 @@ const Order = () => {
                 </div>
                 <div className='card-description-order'>
                   <h5>{products.description}</h5>
-                  <h5>${products.price}</h5>
+                  <h5>₱{products.price}</h5>
+                  <Link onClick={()=>{dispatch(productInfoDisplay([products,]))}} to="/product-info"><h5>See More</h5></Link>
                 </div>
-                <button className='universal-btn' onClick={()=>{dispatch(addToCart({id:`${products.id}`, price:`${products.price}`, para:`${products.para}`, link:`${products.link}`, description:`${products.description}`}))}}>Add to Cart!</button>
+                <button className='universal-btn' onClick={()=>{dispatch(addToCart(products))}}>Add to Cart!</button>
               </div>
             )
           })}

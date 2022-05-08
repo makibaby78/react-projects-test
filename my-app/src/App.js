@@ -14,6 +14,7 @@ import Order from './Screens/Order/Order'
 import Shoppingcart from './Screens/ShoppingCart/ShoppingCart'
 import Headerv2 from './Screens/Header/Headerv2'
 import ProductInfoTemplate from './Screens/ProductInfoTemplate/ProductInfoTemplate'
+import Bread from './Screens/Bread/Bread'
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
               <Route path="/menu" element={<Menu />} />
               <Route path="/cakes" element={<Cakes />} />
               <Route path="/cupcakes" element={<Cupcakes />} />
+              <Route path="/bread" element={<Bread />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/shoppingcart" element={<Shoppingcart />} />
               <Route path="/product-info" element={<ProductInfoTemplate />} />
